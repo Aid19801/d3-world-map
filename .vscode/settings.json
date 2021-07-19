@@ -1,0 +1,19 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+      "statusBarBackground": "#00EECC",
+    },
+    "workbench.colorTheme": "Abyss",
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "[html]": {
+      "editor.formatOnSave": true
+    },
+    "[css]": {
+      "editor.formatOnSave": true
+    }
+  }
